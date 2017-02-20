@@ -1,0 +1,11 @@
+{
+  "name": "level1-hodor",
+  "description": "A simple form post requester",
+  "main": "upvote.js",
+  "author": "Philip Yoo",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
